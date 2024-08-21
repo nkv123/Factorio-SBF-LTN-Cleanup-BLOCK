@@ -1,5 +1,9 @@
 # Factorio-SBF-LTN-Cleanup-BLOCK
 Requires mod https://mods.factorio.com/mod/ltn-cleanup
+Optional mods:
+ * (is in blueprint, you will have an unknown entity when importing the BP:  logistic-train-stop-announcer, can be ignored if you want) https://mods.factorio.com/mod/glutenfree-ltn-announcer 
+ * (is just cool to see what train wants to pick up on locomotive) https://mods.factorio.com/mod/glutenfree-ltn-thought-bubble
+ 
 adapted from https://www.factorio.school/view/-NbhhuOwP1MxqyfjzOqH
 
 in setting> mod setting > map > enable cleanup deliveries so trains will try to dump stuff on clean up stations.
