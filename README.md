@@ -19,6 +19,8 @@ Each of 8 cleanup stations cleanup station has a constant combinator hooked to 4
 Each Buffer box will request items from mall connected via logistic bots so there is no need to ask for a big number of items from connected mall best stack size signal (for example 50 iron ore on constant combinator is a request for 48x50 iron ore which is 2400 iron ore from the mall bots go crazy). I recomend not to have more than 2k logistic bots in mall. my fast solution is https://mods.factorio.com/mod/robot-recall.
 Each cleanup station constant combinator programed to request 50 iron ore, 50 copper ore, 50 uranium ore to be delivered with bots at the time of blueprint placement.
 
+Some rewiring has been done on CLEANUP LOADER stations, best to rebuild them.
+
 For automatic build best way is:
 1. Place rail block 1x1 blueprint
 2. Place construction on blueprint
